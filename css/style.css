@@ -214,3 +214,20 @@ main h1 {
     padding-right: 9%;
 }
 
+
+/*------FOOTER-----*/
+.pie {
+    background-color: #ffbc0f;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 150px;
+}
+.pie col h2, pie col p {
+   text-align: center;
+}
+footer .gotas {
+    background-image: url(../img/gotas.png);
+    background-size: contain;
+    height: 60px
+}
