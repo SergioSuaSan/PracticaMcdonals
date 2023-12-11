@@ -206,6 +206,11 @@ main h1 {
     margin: 0 auto;
 }
 .aviso h3 {
-    width: 300px;
-    margin: 0 10%;
+    width: 30%;
+    padding-left: 3%;
 }
+.aviso p {
+    width: 70%;
+    padding-right: 9%;
+}
+
