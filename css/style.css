@@ -61,7 +61,6 @@ header {
     align-items: center;
 }
 .col {
-    margin: 0 20px;
     justify-content: center;
 }
 .btn {
@@ -222,7 +221,7 @@ main h1 {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 150px 10px 220px;
+    padding: 10px 140px 10px 240px;
     
 }
 .descarga h2, .descarga p {
