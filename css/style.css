@@ -70,6 +70,7 @@ header {
     font-weight: 500;
     border: none;
     border-radius: 4px;
+    cursor: pointer;
 }
 .btn-naranja {
     background-color: #ffbc0f;
@@ -221,13 +222,33 @@ main h1 {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 150px;
+    padding: 10px 150px 10px 220px;
+    
 }
-.pie col h2, pie col p {
-   text-align: center;
+.descarga h2, .descarga p {
+    text-align: center;
+    margin-left: 40px;
 }
+
 footer .gotas {
     background-image: url(../img/gotas.png);
     background-size: contain;
     height: 60px
+}
+hr {
+    width: 80%;
+    
+}
+.siguenos {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.fa-facebook-f {
+    color: #4d2287;
+    margin: 0 10px;
+}
+.fa-instagram {
+    color: #4d2287;
+    margin: 0 10px;
 }
